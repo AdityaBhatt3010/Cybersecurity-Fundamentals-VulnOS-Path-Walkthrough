@@ -301,12 +301,9 @@ Thanks for reading! If you’re also building your cybersecurity fundamentals or
 ⭐ **Follow Me & Connect**
 If you enjoyed this write-up or want to stay connected with my work in cybersecurity, CTFs, VAPT, and forensics, feel free to connect with me below:
 
-🔗 **GitHub:** [https://github.com/AdityaBhatt3010](https://github.com/AdityaBhatt3010)
-💼 **LinkedIn:** [https://www.linkedin.com/in/adityabhatt3010/](https://www.linkedin.com/in/adityabhatt3010/)
-✍️ **Medium:** [https://medium.com/@adityabhatt3010](https://medium.com/@adityabhatt3010)
-👨‍💻👩‍💻 **GitHub Repository (PoC & Screenshots):** [https://github.com/AdityaBhatt3010/Cybersecurity-Fundamentals-VulnOS-Path-Walkthrough](https://github.com/AdityaBhatt3010/Cybersecurity-Fundamentals-VulnOS-Path-Walkthrough)
+🔗 **GitHub:** [https://github.com/AdityaBhatt3010](https://github.com/AdityaBhatt3010) <br/>
+💼 **LinkedIn:** [https://www.linkedin.com/in/adityabhatt3010/](https://www.linkedin.com/in/adityabhatt3010/) <br/>
+✍️ **Medium:** [https://medium.com/@adityabhatt3010](https://medium.com/@adityabhatt3010) <br/>
+👨‍💻👩‍💻 **GitHub Repository (PoC & Screenshots):** [https://github.com/AdityaBhatt3010/Cybersecurity-Fundamentals-VulnOS-Path-Walkthrough](https://github.com/AdityaBhatt3010/Cybersecurity-Fundamentals-VulnOS-Path-Walkthrough) <br/>
 
 ---
-
-* Split it into **Part 1 / Part 2 series**
-* Or map screenshots exactly like a GitHub repo write-up ⚔️
